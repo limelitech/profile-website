@@ -52,8 +52,8 @@ open index.html
 ## 🙋‍♂️ Author
 
 **LimeLite Tech**  
-📧 [Contact](mailto:your.email@example.com)  
-🐦 [X (Twitter)](https://x.com/limelitech)  
+📧 [Contact](mailto:kelvinkatheim@gmail.com)  
+🐦 [X (Twitter)](https://x.com/HubLimelite)  
 🌐 [GitHub](https://github.com/limelitech)
 
 ---
