@@ -1,6 +1,6 @@
 # Profile Website
 
-![Profile Screenshot](images/kathei1.png)
+![Profile Screenshot](images/kathei1.PNG)
 🚀 **Live Demo**: [https://limelitech.github.io/profile-website/](https://limelitech.github.io/profile-website/)
 
 This is a simple and clean personal profile website built using **HTML**, **CSS**, and **JavaScript**. It's perfect for showcasing your professional background, projects, and contact information.
